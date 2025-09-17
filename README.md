@@ -46,6 +46,6 @@
 </h2>
 <div align="center">
 <a href="https://github.com/slorcadelgado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=slorcadelgado&theme=github_dark&show_icons=true&hide_border=true" alt="slorcadelgado's github stats" /></a>
-<a href="https://github.com/slorcadelgado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slorcadelgado&stats_format=bytes&layout=compact&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/slorcadelgado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slorcadelgado&layout=compact&theme=github_dark&hide_border=true" /></a>
 </div>
 
