@@ -30,10 +30,6 @@ Cloud and DevOps enthusiast.
     <code><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 </p>
 
-
-
-
-
 ## Stats
 | <a href="https://github.com/slorcadelgado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=slorcadelgado&theme=github_dark&show_icons=true" alt="slorcadelgado's github stats" /></a> | <a href="https://github.com/slorcadelgado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slorcadelgado&stats_format=bytes&layout=compact&theme=github_dark" /></a> |
 | ------------- | ------------- |
